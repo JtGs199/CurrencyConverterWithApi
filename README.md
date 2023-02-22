@@ -1,9 +1,16 @@
 # CurrencyConverterWithApi
-this program uses API from openexchangerates.org to get the latest currency rates
+This is a currency converter application written in Java. It allows to convert between two different currencies chosen by the user. In this project the application user interface (API) is used to get live conversion rate through (https://openexchangerates.org).
+ 
+ Features:
+- Java console application
+- Currency API
+- live Currency exchange rate
 
-using (java.net.URL) to input the API link and (java.net.HttpURLConnection) to link the program to the website and get information and use (java.io.InputStreamReader)
-to read that inforamtion as byte and convert it into characters then using (java.io.BufferedReader) you turn it into a more readable form.
+Video Tutorial:
+The link below is a video tutorial for the application. It start by giving a demo of the application. Then, it ends up explaining the code.
+- (https://www.youtube.com/watch?v=TF7xB94QQwU) link to the youtube video
 
-the program will ask the user to input the amount to be converted, currency to convert,and the currency to be converted to then it'll extract all currency information from the website and look for the rate for these  currencies after that it'll calculate the converted currency and print it to the user
+Note
+this work is the result of individual project of Programming 2 course @ Computer Science Department , Umm Al-Qural Universiy.
 
-youtube video explaining the program: https://www.youtube.com/watch?v=TF7xB94QQwU
+Under the supervision of Dr. Ahmad Alhindi
