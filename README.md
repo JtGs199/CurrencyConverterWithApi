@@ -7,6 +7,7 @@ This is a currency converter application written in Java. It allows to convert b
 - live Currency exchange rate
 
 Video Tutorial:
+
 The link below is a video tutorial for the application. It start by giving a demo of the application. Then, it ends up explaining the code.
 - (https://www.youtube.com/watch?v=TF7xB94QQwU) link to the youtube video
 
